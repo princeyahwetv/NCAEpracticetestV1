@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="en" class="h-full">
  <head>
   <meta charset="UTF-8">
@@ -112,7 +113,7 @@
       </div>
      </div>
     </div>
-    <footer class="fixed bottom-6 right-6 text-white/90 text-xs font-medium text-right">
+    <footer class="fixed top-6 right-6 text-white/90 text-xs font-medium text-right">
      <p>NCAE Practice Test developed by</p>
      <p class="font-semibold">Joel P. Rodriguez, LPT, MAVED</p>
     </footer>
@@ -183,7 +184,7 @@
       </div>
      </div><button id="start-btn" class="px-12 py-5 rounded-xl font-bold text-white text-lg transition-all hover:scale-105 hover:shadow-2xl shadow-xl" style="background: linear-gradient(135deg, #fbbf24, #f59e0b);"> 🚀 Start Practice Test </button>
     </div>
-    <footer class="fixed bottom-6 right-6 text-white/90 text-xs font-medium text-right">
+    <footer class="fixed top-6 right-6 text-white/90 text-xs font-medium text-right">
      <p>NCAE Practice Test developed by</p>
      <p class="font-semibold">Joel P. Rodriguez, LPT, MAVED</p>
     </footer>
@@ -300,7 +301,7 @@
      <div class="flex flex-col sm:flex-row gap-4 justify-center"><button id="review-btn" class="px-8 py-4 rounded-xl font-semibold text-white bg-emerald-600 hover:bg-emerald-700 transition-all shadow-lg hover:shadow-xl"> 📝 Review Answers </button> <button id="retry-btn" class="px-8 py-4 rounded-xl font-semibold text-white transition-all hover:scale-105 shadow-lg hover:shadow-xl" style="background: linear-gradient(135deg, #fbbf24, #f59e0b);"> 🔄 Retake Test </button>
      </div>
     </div>
-    <footer class="fixed bottom-6 right-6 text-white/90 text-xs font-medium text-right">
+    <footer class="fixed top-6 right-6 text-white/90 text-xs font-medium text-right">
      <p>NCAE Practice Test developed by</p>
      <p class="font-semibold">Joel P. Rodriguez, LPT, MAVED</p>
     </footer>
@@ -317,7 +318,7 @@
      <div class="mt-10 text-center"><button id="retry-from-review-btn" class="px-10 py-4 rounded-xl font-semibold text-white transition-all hover:scale-105 shadow-lg" style="background: linear-gradient(135deg, #fbbf24, #f59e0b);"> 🔄 Retake Test </button>
      </div>
     </div>
-    <footer class="fixed bottom-6 right-6 text-white/90 text-xs font-medium text-right">
+    <footer class="fixed top-6 right-6 text-white/90 text-xs font-medium text-right">
      <p>NCAE Practice Test developed by</p>
      <p class="font-semibold">Joel P. Rodriguez, LPT, MAVED</p>
     </footer>
@@ -419,7 +420,7 @@
         question: 'What is 2³ × 2² equal to?',
         options: ['16', '32', '64', '128'],
         correct: 1,
-        explanation: '2³ = 8 and 2² = 4. So 8 × 4 = 32. Or using exponent rules: 2⁵ = 32.'
+        explanation: '2³ = 8 and 2² = 4. So 8 �� 4 = 32. Or using exponent rules: 2�� = 32.'
       },
       {
         category: 'Numerical Reasoning',
@@ -1307,5 +1308,5 @@
       });
     }
   </script>
- <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9bc521beb377fc92',t:'MTc2ODE0MjAzNC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+ <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9bc531a292e0fed3',t:'MTc2ODE0MjY4NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
